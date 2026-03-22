@@ -107,23 +107,6 @@ Target Variable:
 
 ---
 
-## 🚀 How to Run the Project
-
-1. Clone the repository:
-
-   ```bash
-   git clone <repository-url>
-   ```
-2. Navigate to the project folder:
-
-   ```bash
-   cd house-price-prediction
-   ```
-3. Open the notebook in Google Colab or Jupyter
-4. Run all cells to train and test the model
-
----
-
 ## 📈 Expected Outcome
 
 * A trained machine learning model capable of predicting house prices
