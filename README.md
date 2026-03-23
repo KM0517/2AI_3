@@ -1,5 +1,5 @@
 # 🏥 Medical Cost Prediction using Linear Regression
-
+2AI1_3 Project based on : Medical Cost Personal Dataset
 ## 📌 Project Overview
 
 This project aims to predict individual medical insurance costs based on personal attributes such as age, BMI, smoking habits, and region. The model uses **Linear Regression**, a supervised machine learning algorithm, to estimate healthcare expenses.
@@ -105,8 +105,7 @@ This project demonstrates how machine learning can be used to estimate medical c
 
 ## 👨‍💻 Contributors
 
-* Team Members (Add your names here)
-
+* Khyati Sri
 ---
 
 ## 📜 License
